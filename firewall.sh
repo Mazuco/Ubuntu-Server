@@ -2,7 +2,7 @@
 
 ###########################################################
 
-# Autor: Vitor Mazuco
+# Modificado por: Vitor Mazuco
 # Criação: 11/04/2018
 
 # Esse arquivo, faz as configurações básicas de firewall em nosso Ubuntu Server com a utilização de regras INPUT e OUTPUT na tabela filter.
